@@ -1,0 +1,2 @@
+Problem Statement: You are provided with twitter_parsed_tweets : you have to perform a step-by-step NLP approach to identify the toxicity of the tweet, and classify the tweet in a binary value. 
+The target variable is oh-label and the evaluation metric is F1-score.

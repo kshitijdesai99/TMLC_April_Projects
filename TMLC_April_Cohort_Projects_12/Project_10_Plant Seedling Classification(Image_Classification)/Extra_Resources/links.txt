@@ -1,0 +1,2 @@
+https://pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/
+https://medium.com/@vladisov/flower-classification-with-convolutional-neural-networks-b97130329e5f

@@ -1,0 +1,4 @@
+https://medium.com/analytics-vidhya/computer-vision-tutorial-a-step-by-step-introduction-to-image-segmentation-techniques-part-1-c8a83a4fc9e7
+https://medium.com/swlh/image-segmentation-using-deep-learning-a-survey-e37e0f0a1489
+https://towardsdatascience.com/efficient-image-segmentation-using-pytorch-part-1-89e8297a0923
+https://www.youtube.com/playlist?list=PLZsOBAyNTZwbR08R959iCvYT3qzhxvGOE

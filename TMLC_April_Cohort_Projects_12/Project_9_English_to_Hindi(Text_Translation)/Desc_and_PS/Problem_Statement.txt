@@ -1,0 +1,1 @@
+Problem Statement: You are provided with a large dataset of language pairs, parallelly in English and Hindi: you have to perform a step-by-step NLP approach to translate English to Hindi after splitting the dataset into train-test-validation sets.

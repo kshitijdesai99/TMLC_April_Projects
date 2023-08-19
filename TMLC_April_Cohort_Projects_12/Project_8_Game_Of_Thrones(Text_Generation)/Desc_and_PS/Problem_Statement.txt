@@ -1,0 +1,1 @@
+ Problem Statement: You are provided with got1: you have to perform a step-by-step NLP approach to generate text based on input from any part of the book. Reference to performing the task has been attached below. 

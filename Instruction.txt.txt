@@ -1,0 +1,16 @@
+python3 -m venv env
+env\Scripts\activate
+ipython kernel install --user --name=env
+jupyter-kernelspec uninstall env
+
+
+pip install jupyter_contrib_nbextensions
+jupyter contrib nbextension install --user
+jupyter nbextension enable execute_time/ExecuteTime
+
+git init
+git lfs install
+git lfs track "*.zip"
+git add .
+git commit -m "initial commit"
+git push https://github.com/kshitijdesai99/TMLC_April_Projects
