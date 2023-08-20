@@ -11,8 +11,9 @@ jupyter nbextension enable execute_time/ExecuteTime
 git init
 git lfs install
 git lfs track "*.zip"
-git lfs push --all origin
+git lfs push --all origin main
 git add .
 git commit -m "initial commit"
 git remote add origin https://github.com/kshitijdesai99/TMLC_April_Projects
-git push -u origin
+git branch -m main
+git push --set-upstream origin main
